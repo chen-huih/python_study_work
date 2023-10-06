@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CS_python.iml" filepath="$PROJECT_DIR$/.idea/CS_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deep-learning-python/.idea/deep-learning-python.iml" filepath="$PROJECT_DIR$/../deep-learning-python/.idea/deep-learning-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dl_noob/.idea/net_work.iml" filepath="$PROJECT_DIR$/../dl_noob/.idea/net_work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../organize_meetign/.idea/organize_meetign.iml" filepath="$PROJECT_DIR$/../organize_meetign/.idea/organize_meetign.iml" />
+    </modules>
+  </component>
+</project>
